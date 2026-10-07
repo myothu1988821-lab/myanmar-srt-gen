@@ -1,0 +1,4 @@
+streamlit
+imageio-ffmpeg==0.6.0
+google-generativeai
+Pillow
